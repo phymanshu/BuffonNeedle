@@ -2,7 +2,7 @@
 // Works in browser, ~150 lines
 
 let spacing = 48;     // distance between lines
-let needleLen = 36;   // needle length
+let needleLen = 48;   // needle length
 let needles = [];
 let totalThrows = 0;
 let totalCrosses = 0;
